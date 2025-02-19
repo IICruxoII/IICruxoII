@@ -7,13 +7,13 @@
 
 
 <h2>👇 SOBRE MI 👇</h2> 
- 
- 
-🔥 Apasionado por la programación y los juegos de rol
 
-💻 HTML | CSS | JavaScript | Backend en progreso
+- 🧠 **Apasionado por aprender**: Siempre en busca de nuevos retos y conocimientos.  
+- 💪 **Comprometido**: Trabajo duro para alcanzar mis objetivos y cumplir plazos.  
+- 🎨 **Creativo**: Me gusta encontrar soluciones originales y funcionales.  
+- 🔄 **Adaptable**: Me ajusto rápidamente a nuevos entornos y tecnologías.  
+- 🤝 **Colaborador**: Disfruto trabajando en equipo y compartiendo ideas para mejorar proyectos.
 
-🎯 Buscando crear experiencias web inmersivas
 
 </br>
 
