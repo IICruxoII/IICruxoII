@@ -2,7 +2,7 @@
 <h1>Hola, soy MarioDevs🖐</h1>
 </div>
 
-![Banner](https://github.com/IICruxoII/IICruxoII/raw/main/Designer (2).jpeg.jpg)
+![Banner](https://github.com/IICruxoII/IICruxoII/raw/main/Designer (2).jpeg)
 
 
 <h2>👇 SOBRE MI 👇</h2> 
