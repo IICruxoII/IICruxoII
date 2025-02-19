@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h1>Hola, soy MarioDevs🖐</h1>
+</div>
 
-<!--
-**IICruxoII/IICruxoII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://your-image-link.com/banner.png)
 
-Here are some ideas to get you started:
+<h2>👇 SOBRE MI 👇</h2> 
+ 
+ 
+🔥 Apasionado por la programación y los juegos de rol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 HTML | CSS | JavaScript | Backend en progreso
+
+🎯 Buscando crear experiencias web inmersivas
