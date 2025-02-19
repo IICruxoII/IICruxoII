@@ -15,6 +15,9 @@
 
 🎯 Buscando crear experiencias web inmersivas
 
+</br>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/IICruxoII)](https://github.com/IICruxoII) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/IICruxoII)](https://github.com/IICruxoII) 
